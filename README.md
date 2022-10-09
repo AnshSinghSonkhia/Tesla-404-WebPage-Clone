@@ -13,3 +13,16 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60"/>&nbsp;](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website/blob/main/README.md)
 
 ![](https://i.imgur.com/waxVImv.png)
+
+## License
+
+Have a look at the [LICENSE file](./LICENSE) for details
+
+
+<div align="center">
+
+![](https://i.imgur.com/waxVImv.png)
+
+<h3> Show Some <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/love.png" title="Love" alt="Love" width="20" height="20"/> by Starring Some of My Repos! </h3>
+
+</div>
