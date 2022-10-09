@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300&display=swap');
+
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header img {
+    margin-top: -32px;
+    margin-bottom: -37px;
+    inline-size: 154px;
+}
+
+.navClass {
+    display: flex;
+}
+
+.mainContainer {
+    display: flex;
+    padding: 36px;
+}
+
+.error-text {
+    display: flex;
+    margin-left: 8%;
+    margin-right: 4%;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 57px;
+    margin-right: -5px;
+}
+
+.error-code {
+    font-size: 130px;
+    line-height: 180px;
+    margin-bottom: -37px;
+    margin-top: -52px;
+    font-weight: 700;
+    color: #171A20;
+}
+
+.error-message {
+    font-size: 28px;
+    font-weight: 700;
+    color: #171A20;
+}
+
+.error-action {
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+    color: #393C41;
+}
+
+.error-action a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: #393C41;
+}
+
+.error-action a:link {
+    color: #393C41;
+}
+
+.error-image {
+    display: flex;
+    margin-left: 8%;
+    margin-right: 4%;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 57px;
+}
+
+.starman2 {
+    display: none;
+}
+
+
+/*Responsive*/
+@media (max-width: 1200px) {
+    .error-message { font-size: 20px; }
+
+    .error-code { margin-bottom: -23px; }
+}
+
+@media (max-width: 1141px) {
+    .error-message { font-size: 20px; }
+
+    .error-image { margin-right: 0%; }
+}
+
+@media (max-width: 992px) {
+    .mainContainer { display: block; }
+
+    .error-code {
+        margin-bottom: -8px;
+        align-items: center;
+        text-align: center;
+    }
+
+    .error-text {
+        align-items: center;
+    }
+
+    .error-message {
+        align-items: center;
+        text-align: center;
+    }
+
+    .error-action {
+        align-items: center;
+        text-align: center;
+    }
+
+    .error-image {
+        align-items: center;
+    }
+
+    .starman {
+        display: none;
+    }
+
+    .starman2 {
+        display: block;
+    }
+}
+
+@media (max-width: 549px) {
+    .error-message {
+        font-size: 15px;
+    }
+
+    .error-action {
+        font-size: 10px;
+    }
+
+    .error-text {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+}
+
+@media (max-width: 418px) {
+    .error-message {
+        font-size: 19px;
+    }
+
+    .error-action {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 320px) {
+    .error-message {
+        font-size: 16px;
+    }
+
+}
