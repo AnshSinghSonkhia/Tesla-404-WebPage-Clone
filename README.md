@@ -1,5 +1,7 @@
-# Tesla 404 WebPage Clone [![](https://img.shields.io/badge/-HTML5-darkred?style=flat&logo=HTML5&logoColor=white)&nbsp; ![](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white)&nbsp;![](https://img.shields.io/badge/-JavaScript-gold?style=flat&logo=JavaScript&logoColor=black)](https://github.com/AnshSinghSonkhia/Tesla-404-WebPage-Clone/blob/main/README.md)&nbsp;
+# Tesla 404 WebPage Clone [![](https://img.shields.io/badge/-HTML5-darkred?style=flat&logo=HTML5&logoColor=white)&nbsp; ![](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white)](https://github.com/AnshSinghSonkhia/Tesla-404-WebPage-Clone/blob/main/README.md)&nbsp;
 I created a clone of Tesla's Trending 404 Webpage, in which starman is going to the moon in the Tesla Car to find what you were looking for.
+
+<!-- &nbsp;![](https://img.shields.io/badge/-JavaScript-gold?style=flat&logo=JavaScript&logoColor=black) -->
 
 [Strictly Follow These Contribution Guidelines - CONTRIBUTING.md](https://github.com/AnshSinghSonkhia/Tesla-404-WebPage-Clone/blob/main/CONTRIBUTING.md)
 
@@ -27,8 +29,9 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 
 # Tech-Stack Used..
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60"/>&nbsp;](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website/blob/main/README.md)
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website/blob/main/README.md)
+
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60"/>&nbsp;-->
 
 ![](https://i.imgur.com/waxVImv.png)
 
