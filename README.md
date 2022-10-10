@@ -10,6 +10,9 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
   <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
+<a href="https://twitter.com/AnshSSonkhia">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
 
 <b>Let's Connect Over: [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/)</b>
 
