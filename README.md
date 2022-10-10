@@ -5,6 +5,8 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 
 ![](https://i.imgur.com/waxVImv.png)
 
+<b>Let's Connect Over: [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/)</b>
+
 
 </a>
   <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
@@ -13,8 +15,10 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 <a href="https://twitter.com/AnshSSonkhia">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
+  <a href="https://g.dev/AnshSinghSonkhia">
+  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/android.png"/>&nbsp;
+</a>
 
-<b>Let's Connect Over: [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/)</b>
 
 # Tech-Stack Used..
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
