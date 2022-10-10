@@ -5,7 +5,7 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<b>Let's Connect: [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/)</b>
+<b>Let's Connect Over: [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/)</b>
 
 # Tech-Stack Used..
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
@@ -16,7 +16,7 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 
 ## License
 
-Have a look at the [LICENSE file](./LICENSE) for details
+Have a look at the [LICENSE file](./LICENSE) for the details.
 
 
 <div align="center">
