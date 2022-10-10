@@ -5,6 +5,12 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 
 ![](https://i.imgur.com/waxVImv.png)
 
+
+</a>
+  <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
+</a>
+
 <b>Let's Connect Over: [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/)</b>
 
 # Tech-Stack Used..
