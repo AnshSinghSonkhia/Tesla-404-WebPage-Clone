@@ -35,9 +35,17 @@ I created a clone of Tesla's Trending 404 Webpage, in which starman is going to 
 
 ![](https://i.imgur.com/waxVImv.png)
 
+
+
+
 ## 404 Page Screenshot..
 
 ![](https://github.com/AnshSinghSonkhia/Tesla-404-WebPage-Clone/blob/main/assets/images/Tesla-404.png)
+
+![](https://github.com/AnshSinghSonkhia/Tesla-404-WebPage-Clone/blob/main/assets/images/Tesla-404-iPhone12Pro.png)
+
+
+
 
 ## License
 
